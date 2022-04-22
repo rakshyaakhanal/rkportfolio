@@ -1065,6 +1065,11 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-12.0.0.tgz#a9583a75c3f150667771f30b60d9f059473e62c4"
   integrity sha512-M0qqxAcwCsIVfpFQSlGN5XjXWu8l5JDZN+fPt1LeW5SZexQTgnaEvgXAY+CeygRw0EeppWHi12JxESWiWrB0Sg==
 
+"@emailjs/browser@^3.3.1":
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/@emailjs/browser/-/browser-3.3.1.tgz#573ed344933edf79790522f8f3ca31077f4e5926"
+  integrity sha512-hFoz5GHlaR7Wh/C6XaoZflX3UH3/Evev3y00S3jgLROMwKV+/Yu41muIpB5f755XGDnK7LT++KdMO6MOa2cAOQ==
+
 "@eslint/eslintrc@^1.0.5":
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-1.0.5.tgz#33f1b838dbf1f923bfa517e008362b78ddbbf318"
@@ -3497,6 +3502,11 @@ electron-to-chromium@^1.4.17:
   version "1.4.33"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.33.tgz#1fe18961becb51c7db8ec739c655ef1b93d9349e"
   integrity sha512-OVK1Ad3pHnmuXPhEfq85X8vUKr1UPNHryBnbKnyLcAfh8dPwoFjoDhDlP5KpPJIiymvSucZs48UBrE1250IxOw==
+
+emailjs-com@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/emailjs-com/-/emailjs-com-3.2.0.tgz#a53cb22f1bc433c701c84c53d8b56eefd5ce7111"
+  integrity sha512-Prbz3E1usiAwGjMNYRv6EsJ5c373cX7/AGnZQwOfrpNJrygQJ15+E9OOq4pU8yC977Z5xMetRfc3WmDX6RcjAA==
 
 emittery@^0.8.1:
   version "0.8.1"
